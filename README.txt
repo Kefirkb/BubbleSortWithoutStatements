@@ -1,0 +1,1 @@
+Bubble sort without if, while, for statements. Just for fun
